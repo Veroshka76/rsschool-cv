@@ -16,6 +16,7 @@ I try to constantly learn something new. I want to get new knowledge and skills 
 - HTML
 - CSS
 - JS
+- Python (basic knowledge pandas, seaborn)
 
 ## Code examples
 
